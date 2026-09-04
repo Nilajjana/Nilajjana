@@ -30,6 +30,9 @@ Building things from scratch, breaking them, figuring out why they broke, and oc
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+
+
 
 ### 🚀 Featured projects
 
