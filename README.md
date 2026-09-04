@@ -53,7 +53,6 @@ Building things from scratch, breaking them, figuring out why they broke, and oc
 * Recursive reasoning and AI
 * Backend systems and REST APIs
 * Database design
-* Authentication & authorization
 * Systems programming
 * Machine learning fundamentals
 * Understanding how abstractions work underneath
