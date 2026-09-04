@@ -1,107 +1,67 @@
+<div align="center">
+
 # Hi, I'm Nilajjana 👋
 
-### Computer Science Student • Systems & Algorithms • Software Development
+**Computer Science Student • Systems & Algorithms • Software Development**
 
-I'm a Computer Science student who enjoys understanding how things work under the hood and building systems from scratch.
+Building things from scratch, breaking them, figuring out why they broke, and occasionally making them work.
 
-My interests currently revolve around **algorithms, systems programming, backend development, and practical software engineering**.
+[![GitHub](https://img.shields.io/badge/GitHub-Nilajjana-181717?style=flat-square\&logo=github)](https://github.com/Nilajjana)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Nilaj__Jana-FFA116?style=flat-square\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Nilaj_Jana/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Nilaj__Jana-1F8ACB?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/Nilaj_Jana)
 
----
-
-## 🚀 What I'm Building
-
-### 🧩 [Rubik's Cube Solver](https://github.com/Nilajjana/rubics_cube_solver)
-
-A C++ implementation of **Herbert Kociemba's Two-Phase Algorithm**.
-
-* IDA* search
-* BFS-generated pruning tables
-* Cubie-level cube representation
-* Corner/edge orientation & permutation validation
-* Interactive `ncurses` cube editor
-* Custom coordinate encoding
-* Heuristic-guided search
-
-The project takes a cube from **interactive sticker input → validated cubie representation → heuristic search → solution sequence**.
+</div>
 
 ---
 
-### 🛒 [ShopSphere](https://github.com/Nilajjana/shop_project)
+### 🔭 What I'm working on
 
-A self-hostable **POS, billing and inventory management system** designed around a mobile-first workflow.
+* **ShopSphere** — a mobile-first POS, billing and inventory management system built with Flutter, FastAPI and PostgreSQL, with JWT authentication and a REST API.
+* **Rubik's Cube Solver** — a C++ implementation of Kociemba's two-phase algorithm using IDA*, pruning tables and cubie-level representations.
+* Exploring **backend architecture, databases, algorithms and machine learning** while building projects that force me to understand what's happening underneath the abstractions.
 
-**Stack:**
+### 🧰 Tech I reach for
 
-`Flutter` · `Dart` · `FastAPI` · `Python` · `PostgreSQL` · `JWT` · `REST API`
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
-The goal is to allow shop staff to handle billing, inventory and customer payments from a mobile application while communicating with a locally hosted or remote backend.
+### 🚀 Featured projects
 
-Currently under active development.
+| Project                                                                    | What it does                                                                                                                                                                              |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Rubik's Cube Solver**](https://github.com/Nilajjana/rubics_cube_solver) | C++ Rubik's Cube solver based on Kociemba's Two-Phase Algorithm — cubie representation, IDA* search, pruning tables, heuristic-guided search and an interactive `ncurses` input interface |
+| [**ShopSphere**](https://github.com/Nilajjana/shop_project)                | Mobile-first POS and shop management system — Flutter frontend communicating with a FastAPI backend backed by PostgreSQL, with JWT authentication and REST APIs                           |
+| [**Maze Solver**](https://github.com/Nilajjana)                            | Experiments with graph traversal and pathfinding algorithms, exploring how different search strategies behave across generated spaces                                                     |
+| [**Machine Learning Projects**](https://github.com/Nilajjana)              | Experiments and coursework involving machine learning fundamentals, mathematical implementations and model experimentation                                                                |
 
----
+*(full list in my [repositories tab](https://github.com/Nilajjana?tab=repositories))*
 
-## 🛠️ Technologies
+### 🧠 Things I enjoy figuring out
 
-### Languages
-
-
-
-
-\
-
-### Development
-
-
-
-
-\
-
-### Concepts
-
-`Data Structures & Algorithms` · `Graph Algorithms` · `Search Algorithms` · `REST APIs` · `Database Systems` · `Object-Oriented Programming` · `Machine Learning`
-
----
-
-## 🔬 Other Work
-
-I also work on smaller experiments and coursework involving:
-
-* Graphs and search spaces
-* Maze generation and solving
-* Machine Learning implementations
-* Markov chains
-* Python/C++ experimentation
-* Embedded development with C++
-
-Most of these repositories are exploratory or educational rather than polished products.
-
----
-
-## 📚 Currently Learning
-
-* Backend architecture
+* Data Structures & Algorithms
+* Graph algorithms and search
+* Heuristic search and optimization
+* Backend systems and REST APIs
 * Database design
 * Authentication & authorization
-* Mobile ↔ backend networking
-* Advanced search algorithms
-* Software engineering practices
+* Systems programming
+* Machine learning fundamentals
+* Understanding how abstractions work underneath
+
+### 📚 Currently learning
+
+Going deeper into **backend development, database systems, distributed application architecture and machine learning**, while trying to write less code that I don't understand and more code that I actually do.
 
 ---
 
-## 🎯 Competitive Programming
+<div align="center">
 
-I also practice algorithmic problem solving through:
+<sub>Still learning, still building, still occasionally wondering why the code worked yesterday.</sub>
 
-* **Codeforces**
-* **LeetCode**
-
----
-
-## 📫 Find Me
-
-
-\
-
----
-
-> **Build it. Break it. Understand why. Build it better.**
+</div>
