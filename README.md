@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nilajjana 👋
+# Hi, I'm NILLAL
 
 **Computer Science Student • Systems & Algorithms • Software Development**
 
