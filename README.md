@@ -16,8 +16,7 @@ Building things from scratch, breaking them, figuring out why they broke, and oc
 
 ### 🔭 What I'm working on
 
-* **ShopSphere** — a mobile-first POS, billing and inventory management system built with Flutter, FastAPI and PostgreSQL, with JWT authentication and a REST API.
-* **Rubik's Cube Solver** — a C++ implementation of Kociemba's two-phase algorithm using IDA*, pruning tables and cubie-level representations.
+* **ShopSphere** — a mobile-first POS, billing and inventory management system built with Flutter, FastAPI and PostgreSQL, without usinf any prebuilt framework for microservices.
 * **TRM-Chess** — a planned experimental chess engine exploring **Tiny Recursive Models (TRMs)** for recursive position evaluation and move selection, potentially combined with MCTS.
 * Exploring **backend architecture, databases, algorithms and machine learning** while building projects that force me to understand what's happening underneath the abstractions.
 
