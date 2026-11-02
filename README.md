@@ -16,7 +16,7 @@ Building things from scratch, breaking them, figuring out why they broke, and oc
 
 ### 🔭 What I'm working on
 
-* **ShopSphere** — a mobile-first POS, billing and inventory management system built with Flutter, FastAPI and PostgreSQL, without usinf any prebuilt framework for microservices.
+* **ShopSphere** — a mobile-first POS, billing and inventory management system built with Flutter, FastAPI and PostgreSQL, without using any pre-built framework for microservices.
 * **TRM-Chess** — a planned experimental chess engine exploring **Tiny Recursive Models (TRMs)** for recursive position evaluation and move selection, potentially combined with MCTS.
 * Exploring **backend architecture, databases, algorithms and machine learning** while building projects that force me to understand what's happening underneath the abstractions.
 
